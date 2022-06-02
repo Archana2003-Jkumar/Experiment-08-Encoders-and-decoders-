@@ -58,7 +58,10 @@ D7 = X Y Z
 ## Figure -04 8 to 3 Decoder implementation 
 
 ## Procedure
-## ss
+## Step1:
+Using the or gates process the encoder.
+## Step2:
+Using assign method do the decoder.
 
 
 
@@ -93,10 +96,6 @@ assign d7=(a & b & c);
 endmodule 
 
 ```
-
-
-
-
 
 ## RTL LOGIC  
 ![enc2.png](./enc2.png)
